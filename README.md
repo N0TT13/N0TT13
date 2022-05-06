@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @N0TT13
-- 👀 I am interested in web development
+- 👀 I am interested in web development and 
+      graphic design
 - 🌱 I’m currently learning Java Script
 - 💞️ I am looking to collaborate on web projects, apps, video games and graphic design
 - 📫  Contact email: carracedogarciasergio@gmail.com
